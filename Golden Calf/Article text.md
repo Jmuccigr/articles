@@ -6,7 +6,7 @@ author:
 date: June 10, 2015
 license: CC BY
 csl: /Users/john_muccigrosso/Documents/Zotero data/styles/society-of-biblical-literature-fullnote-bibliography.csl
-css: "https://cdn.rawgit.com/Jmuccigr/css/master/clean_para_numbering.css"
+css: "/Users/john_muccigrosso/Documents/github/local/css/clean_para_numbering.css"
 ---
 
 ## The Problem
